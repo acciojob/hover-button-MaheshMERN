@@ -1,9 +1,12 @@
 
 /* Your CSS Code here. */
 #btn{
+	width: 10em;
+    height: 5ex;
 	background-color:black;
 	color:white;
-	border-radius:5px
+	border-radius:5px;
+	 cursor: pointer;
 }
 #btn:hover{
 	background-color:yellow;
